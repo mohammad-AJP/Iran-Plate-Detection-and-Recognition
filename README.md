@@ -7,6 +7,7 @@ This repo explains the codes needed for finetuning a YOLOv7 on a plate-detection
 To create the dataset for this project, I used two kaggle datasets, one including forign car plates and the other including Iranian car plates. To combine these two datasets, I used **Roboflow.com** which is a great tool to create your own dataset for object detection tasks. With this website, you can annotate images, or combine annotated datasets to create a new one, as I did here. 
 
 The links to the datasets are:
+
 https://www.kaggle.com/datasets/skhalili/iraniancarnumberplate
 
 https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
