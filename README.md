@@ -64,3 +64,4 @@ The algorithm of the code is as below:
 - The plate ID is then shown on the image and the final image is saved to the local drive.
 
 
+!! This Repo is under constructiona and will be updated for **plate orientation correction** and **implementation on videos**
