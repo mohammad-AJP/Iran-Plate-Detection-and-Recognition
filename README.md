@@ -34,6 +34,14 @@ https://www.kaggle.com/datasets/sajjadsoroori/iranis?select=M
 
 70% of the data is dedicated for training and 20 and 10% of the data is dedicated for validation and test purposes, respectively by using the code **ocr_data_prepare.py**. 
 
+## Data Split
+
+| Category             | Percentage                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Train | 70% |
+| Validation | 20% |
+| Test| 10% |
+
 ## Plate Detection and Recognition
 The main code for plate detection and recognition is **plate_detection_main.py**
 
