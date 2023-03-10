@@ -38,7 +38,7 @@ weights = 'yolov7\weights\weights.pt'
 device_id = 'cpu'
 image_size = 640
 trace = True
-ocr = load_model('G:\MyDocuments\work\Afagh\Project2\CNN_OCR.h5')
+ocr = load_model('path\to\CNN_OCR.h5')
 source_image_path = "yolov7\images_test\car2.jpg"
 persian_char_list = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "الف", "ب", "د", "ق", "ه", "ج", "ل", "م", "ن", "پ", "ع", "توانیاب", "ص", "س", "ط", "ت", "و", "ی"]
 
